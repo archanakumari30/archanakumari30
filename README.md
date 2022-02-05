@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @archanakumari30
+- 👋 Hi, I’m Archana Kumari.
 - 👀 I’m interested in web development and problem solving.
 - 🌱 I’m currently B.Tech 3rd year student at NIT Patna.
 - 📫 reach me at archanak.ug19.cs@nitp.ac.in
